@@ -3,7 +3,7 @@ message: "If you use this software, please cite it using the following metadata.
 type: software
 authors:
 - family-names: "Cameron"
-  given-names: "McEWing"
+  given-names: "McEwing"
   orcid: "https://orcid.org/0009-0004-8010-6346"
 title: "Proxima Centauri Research Project"
 version: 0.0.0
