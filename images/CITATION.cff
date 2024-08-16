@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+type: software
+authors:
+- family-names: "Cameron"
+  given-names: "McEWing"
+  orcid: "https://orcid.org/0009-0004-8010-6346"
+title: "Proxima Centauri Research Project"
+version: 0.0.0
+doi: 10.5281/zenodo.13330363
+date-released: 2024-08-16
+url: "https://github.com/DeepSkyWonder/proxima-centauri/"
